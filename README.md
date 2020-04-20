@@ -1,16 +1,14 @@
-# Flutter_UI: Fashion Ecommerce Application screens. 
+# Flutter UI Fashion E-commerce Application.
 
-A new Flutter project.
+<img width="300" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_fashion_mobile_shopping/blob/master/flutter_UI_Final_Output1.jpg">
+<img width="300" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_fashion_mobile_shopping/blob/master/flutter_UI_Final_Output2.jpg">
 
-## Getting Started
+## Components Used
+1. List view
+2. Floating Action Button
+3. Stack
+4. Containers
 
-This project is a starting point for a Flutter application.
+### Design Reference
+https://dribbble.com/shots/5544567-Mobile-Shopping/attachments/1199413
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
