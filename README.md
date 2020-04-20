@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <img width="300" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_fashion_mobile_shopping/blob/master/flutter_UI_Final_Output2.jpg">
-  <br>
+  <span style="width="100";></span>
 <img width="300" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_fashion_mobile_shopping/blob/master/flutter_UI_Final_Output1.jpg">
 </p>
 
