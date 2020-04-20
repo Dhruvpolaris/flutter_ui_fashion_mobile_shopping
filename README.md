@@ -11,6 +11,7 @@
 2. Floating Action Button
 3. Stack
 4. Containers
+5. Tabs
 
 ### Design reference:
 https://dribbble.com/shots/5544567-Mobile-Shopping/attachments/1199413
